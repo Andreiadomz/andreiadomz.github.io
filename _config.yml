@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: AndreiaDomingues
+title: Andreia Domingues
 email: andreiadomingues@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Product manager and management consultant, Insead MBA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: andreiadomz
+github_username:  andreiadomz
 
 # Build settings
 markdown: kramdown
